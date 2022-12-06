@@ -11,3 +11,11 @@ $ git init
 ```bash
 $ git status
 ```
+
+- Para adicionar novas mudanças:
+
+```bash
+$ git add <nomedoarquivo>
+```
+
+
