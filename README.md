@@ -24,5 +24,9 @@ $ git add <nomedoarquivo>
 $ git commit -m "Message"
 ``` 
 
+- Como visualizar a diferença entre as versões:
 
+```bash
+git diff
+´´´
 
